@@ -1,2 +1,2 @@
-# yanabet
+# yanabets.github.io
 
